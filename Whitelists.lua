@@ -6,7 +6,7 @@ Users = {
   "Pae_Epic",
   "Superbigpizzaboy",
   "robloxxaker134",
-  "EDINQKGUZ",
+  "EDINQK_GUZ",
   "obbycreatorissus"
 }
 
